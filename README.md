@@ -1,0 +1,2 @@
+# Latihan LTIK
+Hello
